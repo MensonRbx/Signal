@@ -1,6 +1,5 @@
 [package]
-name = "bigboy/signal"
-version = "0.1.0"
+name = "mensonrbx/signal"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 repository = "https://github.com/MensonRbx/Signal"
