@@ -1,0 +1,10 @@
+[package]
+name = "bigboy/signal"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+repository = "https://github.com/MensonRbx/Signal"
+authors = ["mensonrbx <mensonrbx@gmail.com>"]
+version = "1.0.0"
+
+[dependencies]
